@@ -9,4 +9,5 @@ console.log(motor)
 console.log(motor.merk)
 console.log('==========')
 motor.pemilik = 'adam'
+motor.harga = 20000000
 console.log(motor)
