@@ -10,7 +10,7 @@ function callObject() {
   console.log(mobil)
 
   for (let x in mobil) {
-    console.log('calling object from let in ' + mobil[x])
+    console.log('calling object from for in ' + mobil[x])
   }
 
   console.log(mobil.modifier[1])
